@@ -25,10 +25,10 @@ Software Engineer and Data Analyst with **+4 years of experience** building scal
 
 Currently focused on bridging the gap between full-stack software engineering and data intelligence to optimize strategic decision-making in public and private institutions.
 
-* 🎓 **Education:** Degree in Computer Science Engineering (USTP / ISP)
-* 🏛️ **Impact:** Developed state-level financial control systems and European Union election observation platforms
-* 🔭 **Current Focus:** Next.js enterprise applications, Python ETL pipelines & Cloud Infrastructure
-* ⚡ **Core Philosophy:** Clean Code, Reliable Data, and High Performance
+* 🎓 **Education:** Bachelor’s degree in Computer Engineering (USTP / ISP)
+* 🏛️ **Impact:** Development of systems and data analysis for election observation on behalf of the European Union
+* 🔭 **Current focus:** Enterprise applications using Next.js, ETL pipelines in Python, and cloud infrastructure
+* ⚡ **Core philosophy:** Clean code, reliable data, and high performance
 
 ---
 
@@ -62,11 +62,11 @@ Currently focused on bridging the gap between full-stack software engineering an
 
 ### 🚀 Highlighted Work & Track Record
 
-| Role & Organization | Key Contributions | Key Technologies |
+| Role and Organization | Key Contributions | Key Technologies |
 | :--- | :--- | :--- |
-| **Assistant Data Analyst**<br>`EU EOM — European Union` | Automated data collection pipelines, converted complex raw datasets, and built interactive decision dashboards. | `Python`, `Metabase`, `PostgreSQL`, `ETL` |
-| **Software Engineer**<br>`Inspeção Geral de Finanças (IGF)` | Built full-stack state financial management platforms, institutional repositories, and managed Docker production environments. | `Next.js`, `Node.js`, `PostgreSQL`, `TypeORM`, `Docker` |
-| **Backend & ETL Developer**<br>`Brainsoft / Unitel` | Maintained UCC telecom software, built CDR processing pipelines, and developed REST APIs for public & private apps (DESC, SOKERU, STP24, ZULU). | `Node.js`, `WSO2`, `Talend`, `PostgreSQL` |
+| **Assistant Data Analyst**<br>`EU EOM — European Union` | Automated data collection workflows, processed complex raw datasets, and created interactive dashboards to support decision-making. | `Python`, `Metabase`, `PostgreSQL`, `ETL` |
+| **Software Engineer**<br>`General Inspectorate of Finance (IGF)` | Developed the institution's official website and a full-stack platform for institutional repositories; managed production environments using Docker. | `Next.js`, `Node.js`, `PostgreSQL`, `TypeORM`, `Docker` |
+| **Backend and ETL Developer**<br>`Brainsoft / Unitel` | Maintained telecommunications software (UCC), built CDR (Call Detail Record) processing workflows, and developed REST APIs for public and private applications (DESC, SOKERU, STP24, ZULU). | `Node.js`, `WSO2`, `Talend`, `PostgreSQL` |
 
 ---
 
